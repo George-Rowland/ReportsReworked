@@ -1,0 +1,5 @@
+name: PluginTemplate
+version: '${project.version}'
+main: com.yourplugin.plugintemplate.PluginTemplate
+authors: [ YourName ]
+description: Description of plugin
